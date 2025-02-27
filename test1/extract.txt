@@ -1,0 +1,99 @@
+Ping to Win? Non-Verbal Communication and Team
+Performance in Competitive Online Multiplayer Games
+Alex Leavitt,1Brian C. Keegan,2Joshua Clark1
+1University of Southern California, Los Angeles, California, USA
+2Harvard University, Boston, Massachusetts, USA
+aleavitt@usc.edu, bkeegan@acm.org, joshuaac@usc.edu
+ABSTRACT
+Non-verbal communication plays a large role in online com-
+petitive multiplayer games, as team members attempt to coor-
+dinate with each other without distraction to achieve victory.
+Some games enable this communication through “pings,”
+alerts that are easy to activate and provide auditory and visual
+cues for teammates. In this paper, we review the literature
+on gestures and non-verbal communication and, through an
+empirical analysis of 84,489 players across 10,293 matches
+in the popular game, League of Legends, illustrate ping use
+in multiplayer games and test the impact of ping actions on
+performance in teams. We show that the amount of pings de-
+pends on player role and in-game activity and that pings by
+players have a positive but concave relationship with player
+performance. These ﬁndings demonstrate the importance of
+non-verbal communication and interruption on the perfor-
+mance of virtual team members. We conclude by discussing
+the implications of these results for theorizing and designing
+sociotechnical systems that rely on users to engage in syn-
+chronous, collaborative work in shared visual spaces.
+Author Keywords
+Alerts; pings; non-verbal communication; interruptions;
+awareness; online games; MOBA; virtual teams;
+coordination; performance; League of Legends; e-sports
+ACM Classiﬁcation Keywords
+H.5.3 Information Interfaces and Presentation: Group and
+Organization Interfaces (collaborative computing, computer
+supported cooperative work; synchronous interaction); K.8.0
+Computers and Society: General (Games)
+INTRODUCTION
+How well do teams perform on high-tempo tasks within
+collaborative virtual environments without rich, face-to-face
+communication? Human-computer interaction research has
+explored this question for more than two decades across a va-
+riety of contexts and technologies [18, 26]. Online sociotech-
+nical systems now provide a substantial opportunity for social
+Permission to make digital or hard copies of all or part of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for proﬁt or commercial advantage and that copies bear this notice and the full cita-
+tion on the ﬁrst page. Copyrights for components of this work owned by others than
+ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or re-
+publish, to post on servers or to redistribute to lists, requires prior speciﬁc permission
+and/or a fee. Request permissions from permissions@acm.org.
+CHI’16 , May 07–12, 2016, San Jose, CA, USA.
+Copyright © 2016 ACM 978-1-4503-3362-7/16/05...$15.00.
+http://dx.doi.org/10.1145/2858036.2858132scientists to test and develop new theories of organizational
+behavior. While sports have been used as a setting to study
+coordination and communication [16, 24], cooperative on-
+line games — for example, League of Legends — provide
+unique circumstances to test theories about virtual team per-
+formance, because they provide rich behavioral data in high-
+tempo settings with consistent rules.
+Following recent calls to analyze how communication tools
+inﬂuence virtual team coordination [72], our study examines
+the role of non-verbal, communicative alerts called “pings”
+and their impact on performance in the popular multiplayer
+online battle arena (MOBA) game, League of Legends (LoL ).
+In this game, two ﬁve-member teams attempt to destroy the
+opposing team’s base while protecting their own. Players
+must not only perform specialized roles with precise skill,
+but they must also quickly process complex streams of infor-
+mation in a shared visual environment and coordinate team
+members’ behavior to respond to opponents’ play. Commu-
+nication plays a crucial role in this work, but the rapid pace
+of the game and ad hoc nature of teams precludes the ability
+to maintain consistent communication through text or voice
+chat. While pings provide players with the affordance of
+quick, targeted communication, team members need to bal-
+ance using alerts to improve situational awareness for team
+members with interrupting teammates’ ﬂow, disrupting focus,
+or overloading their attention.
+In this paper, we draw on scholarship about the role of ges-
+ture and non-verbal cues in collaborative work, the dynamics
+of teams in multiplayer online games, and awareness and in-
+terruption in collaborative environments to develop and eval-
+uate an empirical model of team communication and perfor-
+mance. We test this model by analyzing a dataset contain-
+ing actions from 84,489 League of Legends players in 10,293
+games (comprised of 102,930 individual game sessions). Us-
+ing hierarchical regression analyses to control for player-,
+team-, and game-level performance, we ﬁnd evidence of vari-
+ation in use of pings by types and amount of participation; a
+positive relationship of ping use on some kinds of individual-
+level performance; and relationship between pings and low-
+ered performance from interruption. These ﬁndings connect
+emerging research about team behavior in multiplayer online
+games with theories from linguistics, organizational behavior,
+and human-computer interaction, and furthermore they have
+implications for designing collaborative systems to support
+virtual teamwork.
+Supporting Player Social Experiences
+#chi4good, CHI 2016, San Jose, CA, USA
+4337

@@ -1,0 +1,29 @@
+ 1 Effet des granulats de caoutchouc sur les 
+propriétés d’un mortier de ciment 
+Amar Benazzouk, Omar Douzane, Thierry Langlet, Katiba Mezreb, 
+Fayçal Labbani, Jean-Marc Roucoult 
+Laboratoire des Technologies Innovantes (EA 3899) - "Phénomènes de Transfert et 
+Construction Durable" - Université de Picardie Jules Verne IUT d’Amiens, Département génie civil. Avenue des Facultés, 80025 Amiens, cedex 01  
+Amar.benazzouk@u-picardie.fr ; omar.douzane ; thierry.langlet@u-picardie.fr ; jean-
+marc.roucoult@u-picardie.fr 
+Sections de rattachement : 60 & 62 
+Secteur : Secondaire  
+RÉSUMÉ. L’objectif de cette étude est d'examiner les potentialités de l’incorporation de 
+particules de caoutchouc, de taille inférieure à 1 mm, dans une matrice cimentaire en vue de 
+l’utilisation du composite élabor é dans le domaine d’application de s bétons légers. Le matériau 
+étudié est un mortier dans lequel le sable a été substitué par ces particules  de caoutchouc à des 
+teneurs volumiques de 0, 25, 50, 75 et 100%. D ans un premier temps, nous avons évalué l’effet 
+des particules de caoutchouc sur les proprié tés physico-mécaniques du composite. Dans un 
+deuxième temps, nous nous somme s intéressés aux variations dimensionnelles du matériau, 
+lorsque celui-ci passe d’un état sec au contact accidentel de l’eau liquide. Ces dernières 
+correspondent aux Variations Dimensionnelles Ex trêmes (VDE). Les résultats ont montré que 
+malgré une baisse significative des résistances mécaniques, correspondant à un allégement allant 
+jusqu’à 42%, le composite est com patible avec l’utilisation en matériau léger de construction de 
+"classe II", suivant les recommandations de la RILEM1. L’examen des VDE a mis en évidence 
+l’effet des particules de caoutchouc sur la réduc tion de la sensibilité à l’eau du matériau.  
+MOTS-CLÉS : Déchets de caoutchouc, Composite  cimentaire, Mortier, Propriétés physico-
+mécaniques, Variations di mensionnelles et pondérales 
+1. Introduction  
+L’emploi des déchets et des sous-produits industriels dans le secteur du bâtiment répond 
+                                                           
+1. Réunion Internationale des Laboratoires et Experts des Matériaux 
