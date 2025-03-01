@@ -19,16 +19,16 @@ Créer un widget pour Orange Textable (v3.1.0) permettant l'importation et l'ext
 1.3 Equipe et résponsabilités
 ==============================
 
-* Colin (`sarah.peretti-poix@unil.ch`_):
+* Luginbühl Colin (`colin.luginbuhl@unil.ch`_):
 
-.. _sarah.peretti-poix@unil.ch: mailto:sarah.peretti-poix@unil.ch
+.. _colin.luginbuhl@unil.ch: mailto:colin.luginbuhl@unil.ch
 
     - specification
     -
 
-* Matthias (`sarah.peretti-poix@unil.ch`_):
+* Borgeaud Matthias (`matthias.borgeaud@unil.ch`_):
 
-.. _sarah.peretti-poix@unil.ch: mailto:sarah.peretti-poix@unil.ch
+.. _matthias.borgeaud@unil.ch: mailto:matthias.borgeaud@unil.ch
 
     - specification
     -
