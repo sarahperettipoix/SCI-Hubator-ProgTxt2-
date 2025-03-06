@@ -23,22 +23,28 @@ Créer un widget pour Orange Textable (v3.1.0) permettant l'importation et l'ext
 
 .. _colin.luginbuhl@unil.ch: mailto:colin.luginbuhl@unil.ch
 
-    - specification
-    -
+    - Specification
+    - extraction des données
+    - Code
+    - Documentation
 
 * Borgeaud Matthias (`matthias.borgeaud@unil.ch`_):
 
 .. _matthias.borgeaud@unil.ch: mailto:matthias.borgeaud@unil.ch
 
-    - specification
-    -
+    - Spécification
+    - Code
+    - Documentation
+    - Vérification orthographe
 
 * Peretti-Poix Sarah (`sarah.peretti-poix@unil.ch`_):
 
 .. _sarah.peretti-poix@unil.ch: mailto:sarah.peretti-poix@unil.ch
 
-    - specification
-    -
+    - Spécification
+    - GitHub
+    - Code
+    - Débuggage
 
 2. Technique
 ************
@@ -52,7 +58,7 @@ Créer un widget pour Orange Textable (v3.1.0) permettant l'importation et l'ext
 2.2 Fonctionnalités minimales
 =============================
 
-.. image:: images/childes_minimal.png
+.. image:: images/scihubator_minimal.png
 
 * permettre l'importation de pdf tirés de SCI-HUB à l'aide d'un DOI et l'extraction du corpus textuel.
 * créer et émettre une segmentation avec un segment (=Input) pour chaque partie du corpus importé (résumé/abstract, bibliographie...).
@@ -61,7 +67,7 @@ Créer un widget pour Orange Textable (v3.1.0) permettant l'importation et l'ext
 2.3 Fonctionnalités principales
 ===============================
 
-.. image:: images/childes.png
+.. image:: images/scihubator.png
 
 * permettre l'importation de pdf tirés de SCI-HUB (à partir d'un DOI).
 * permettre d'en tirer le texte.
@@ -73,6 +79,7 @@ Créer un widget pour Orange Textable (v3.1.0) permettant l'importation et l'ext
 ================================
 * créer et émettre une segmentation par thème.
 * créer et émettre un résumé/abstract.
+* créer et émettre un tableau de cross-reference.
 
 2.5 Tests
 =========
@@ -95,5 +102,5 @@ TODO
 
 4. Infrastructure
 =================
-Le projet est disponible sur GitHub à l'adresse `https://github.com/sarahperettipoix/SCI-Hubator-ProgTxt2-
-<https://github.com/sarahperettipoix/SCI-Hubator-ProgTxt2->`_
+Le projet est disponible sur GitHub à l'adresse `https://github.com/Olipper/orange3-textable-prototypes-'
+<https://github.com/Olipper/orange3-textable-prototypes->`_
