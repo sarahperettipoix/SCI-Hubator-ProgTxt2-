@@ -1,3 +1,4 @@
+#changer pour PyMuPDF ou PDFPlumber pour matcher SuperTextFiles
 from PyPDF2 import PdfReader
 from scihub import SciHub
 
